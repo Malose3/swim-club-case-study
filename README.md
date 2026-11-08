@@ -6,7 +6,17 @@ Aplicación web progresiva (PWA) que reúne tareas habituales de un club de nata
 **Autor del proyecto:** Manuel López Serrano  
 **Orientación:** aprendizaje práctico en desarrollo asistido por IA y automatización de procesos.
 
-> Este repositorio contiene documentación pública y una presentación visual del proyecto. El código de uso interno, las cuentas y los datos del club permanecen privados. No es una aplicación instalable ni una demo interactiva pública.
+> Este repositorio contiene documentación pública, una presentación visual y un ejemplo de código aislado del proyecto. El código de uso interno, las cuentas y los datos del club permanecen privados. No es una aplicación instalable ni una demo interactiva pública.
+
+## Código de muestra
+
+**[Ver el ejemplo de normalización de tiempos de natación](examples/swim-times)**
+
+Adaptación aislada de una utilidad de la app: interpretar tiempos escritos, validar el formato y expresarlos de forma consistente. Incluye implementación, demo con valores ficticios y seis pruebas automatizadas.
+
+Por ejemplo, `1:02,35` y `62.35` producen `01:02.35`; una entrada como `1:60` se rechaza. La muestra usa centésimas enteras y validación más estricta que la utilidad revisada. Su alcance y diferencias están explicados en su README.
+
+Es código preparado para el portafolio con asistencia de Codex. No permite reconstruir la aplicación completa ni incluye datos del club o conexiones a sus servicios.
 
 ## Vídeo de presentación
 
@@ -16,7 +26,7 @@ Aplicación web progresiva (PWA) que reúne tareas habituales de un club de nata
 
 Resumen elaborado con tres imágenes seleccionadas y revisadas del vídeo original: portada, pantalla de acceso con correo de ejemplo y agenda ilustrativa. Es una presentación del diseño; no muestra una sesión interactiva ni acredita el funcionamiento en producción.
 
-La edición pública excluye las pantallas de perfiles, asistencias, marcas y tienda, así como la dirección de acceso a la aplicación. El audio y los metadatos de origen se han eliminado. El vídeo completo y el código de la aplicación no se incluyen.
+La edición pública excluye las pantallas de perfiles, asistencias, marcas y tienda, así como la dirección de acceso a la aplicación. El audio y los metadatos de origen se han eliminado. El vídeo completo y el código completo de la aplicación no se incluyen.
 
 ## El problema
 La gestión de un club combina información con ritmos y destinatarios distintos: sesiones de entrenamiento, calendarios de competición, convocatorias, asistencia y resultados. El proyecto busca reunir esos flujos en una interfaz que se pueda consultar desde el móvil.
@@ -81,7 +91,7 @@ La importación de récords es un ejemplo concreto dentro del proyecto:
 Este flujo está implementado como parte de la aplicación. No lo presento como un segundo proyecto independiente ni como un CRM terminado.
 
 ## Instalación y acceso
-Este repositorio público solo contiene el caso de estudio: **no requiere instalación** y no incluye ejecutables, claves ni acceso a la aplicación interna.
+El caso de estudio y el vídeo se pueden consultar sin instalación. El ejemplo de código se ejecuta con Node.js, sin dependencias adicionales. Este repositorio no incluye la aplicación instalable, claves ni acceso al sistema interno.
 
 En el proyecto privado, el desarrollo usa Node.js y npm: instalación desde el archivo de bloqueo, configuración de entorno y arranque con Vite. La guía detallada y las comprobaciones están en su README privado. No se publica un enlace a producción ni cuentas de acceso.
 
@@ -105,3 +115,4 @@ Esta revisión se limita al material publicado; no certifica el vídeo original 
 
 ---
 [Perfil de Manuel López Serrano](https://github.com/Malose3)
+
