@@ -6,7 +6,17 @@ Aplicación web progresiva (PWA) que reúne tareas habituales de un club de nata
 **Autor del proyecto:** Manuel López Serrano  
 **Orientación:** aprendizaje práctico en desarrollo asistido por IA y automatización de procesos.
 
-> Este repositorio contiene documentación pública del proyecto. El código de uso interno, las cuentas y los datos del club permanecen privados. No es una aplicación instalable ni una demo pública.
+> Este repositorio contiene documentación pública y una presentación visual del proyecto. El código de uso interno, las cuentas y los datos del club permanecen privados. No es una aplicación instalable ni una demo interactiva pública.
+
+## Vídeo de presentación
+
+[![Ver la presentación resumida de la aplicación](media/portada-presentacion.jpg)](media/presentacion-publica-segura.mp4)
+
+**[Ver o descargar el vídeo · 15 segundos · sin audio](https://raw.githubusercontent.com/Malose3/swim-club-case-study/main/media/presentacion-publica-segura.mp4)**
+
+Resumen elaborado con tres imágenes seleccionadas y revisadas del vídeo original: portada, pantalla de acceso con correo de ejemplo y agenda ilustrativa. Es una presentación del diseño; no muestra una sesión interactiva ni acredita el funcionamiento en producción.
+
+La edición pública excluye las pantallas de perfiles, asistencias, marcas y tienda, así como la dirección de acceso a la aplicación. El audio y los metadatos de origen se han eliminado. El vídeo completo y el código de la aplicación no se incluyen.
 
 ## El problema
 La gestión de un club combina información con ritmos y destinatarios distintos: sesiones de entrenamiento, calendarios de competición, convocatorias, asistencia y resultados. El proyecto busca reunir esos flujos en una interfaz que se pueda consultar desde el móvil.
@@ -89,7 +99,9 @@ El proyecto me sirve para trabajar en:
 Próximos pasos: reforzar la comprensión del código, completar la validación del flujo de datos y preparar una demo aislada con datos inequívocamente ficticios.
 
 ## Capturas y privacidad
-Esta versión utiliza el diagrama de arquitectura. No se han incorporado capturas de cuentas internas ni documentos, nombres o registros de deportistas. Las futuras capturas deberán proceder de una demo aislada con datos ficticios.
+La presentación pública utiliza únicamente las tres imágenes descritas arriba, revisadas visualmente antes de generar el MP4. Se conservan la identidad visual del club y la atribución al autor, ya identificado en este README. El correo de la pantalla de acceso es un texto de ejemplo; la agenda está rotulada como vista ilustrativa. No se incluyen fichas ni registros de deportistas, documentos internos, credenciales legibles ni enlaces de acceso a la aplicación.
+
+Esta revisión se limita al material publicado; no certifica el vídeo original completo ni la seguridad de la aplicación. Las futuras capturas deberán proceder de una demo aislada con datos inequívocamente ficticios.
 
 ---
 [Perfil de Manuel López Serrano](https://github.com/Malose3)
