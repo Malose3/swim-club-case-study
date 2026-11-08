@@ -35,7 +35,7 @@ La gestión de un club combina información con ritmos y destinatarios distintos
 Estas funcionalidades se han identificado en el repositorio. Su presencia no equivale a una certificación de funcionamiento en producción.
 
 ## Mi aportación y uso de IA
-Mi trabajo consiste en **definir las necesidades, pedir cambios a ChatGPT/OpenCode, probar los resultados y detectar errores**. Utilizo estos asistentes para apoyar la generación y revisión del código, entenderlo y resolver problemas.
+Mi trabajo consiste en **definir las necesidades, pedir cambios a Codex, OpenCode y Claude Code, probar los resultados y detectar errores**. Utilizo estos asistentes para apoyar la generación y revisión del código, entenderlo y resolver problemas.
 
 El desarrollo es asistido por IA. Estoy aprendiendo a comprender y mantener la solución; no presento todo el código como escrito de forma independiente ni este proyecto como experiencia profesional en ingeniería de IA.
 
