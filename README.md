@@ -1,4 +1,23 @@
-# Gestión de un club de natación
+# Swimming club management · Technical portfolio
+
+**React · TypeScript · PWA · Supabase integration**
+
+[![Public sample checks](https://github.com/Malose3/swim-club-case-study/actions/workflows/portfolio-check.yml/badge.svg)](https://github.com/Malose3/swim-club-case-study/actions/workflows/portfolio-check.yml)
+
+A learning project connecting day-to-day club operations with application design, data handling and a mobile interface. The full app is private; this repository provides a technical case study, a short visual presentation and runnable sample code.
+
+**[Technical review in English](TECHNICAL_REVIEW.md)** · **[Watch the presentation](media/presentacion-publica-segura.mp4)** · **[Run the sample](examples/swim-times)**
+
+| Review area | Public evidence |
+| --- | --- |
+| Product and architecture | Responsibilities, data flow and technology choices in the technical review |
+| Interface | A 15-second silent presentation made from three reviewed still images |
+| Code quality | A parser/formatter with an explicit contract and integer time representation |
+| Verification | Six automated sample tests and a reproducible local demo |
+| Contribution | Domain knowledge, requirements and iteration with substantial AI assistance |
+
+## Caso de estudio en español
+
 ### Caso de estudio · Proyecto propio en desarrollo · Desarrollo asistido por IA
 
 Aplicación web progresiva (PWA) que reúne tareas habituales de un club de natación: planificación, asistencia, convocatorias y seguimiento de marcas.
