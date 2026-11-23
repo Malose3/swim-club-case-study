@@ -123,9 +123,12 @@ El proyecto me sirve para trabajar en:
 - Documentar el stack y el alcance sin confundir uso asistido con dominio técnico.
 
 ## Estado y próximos pasos
-**En desarrollo.** La preparación para producción y la validación de permisos siguen siendo trabajo pendiente. No se publican métricas de uso, ahorro de tiempo ni resultados que no se hayan medido.
 
-Próximos pasos: reforzar la comprensión del código, completar la validación del flujo de datos y preparar una demo aislada con datos inequívocamente ficticios.
+**En desarrollo, con un avance de despliegue documentado en noviembre de 2026.** El registro privado del proyecto documenta la publicación, el 18 de noviembre, de una revisión programada de resultados deportivos. Recoge comprobaciones de acceso, respaldo previo y validaciones antes de incorporar marcas. La ejecución inicial obtuvo resultados parciales y no incorporó marcas al no cumplirse las condiciones necesarias.
+
+Esta actualización describe ese hito concreto. No certifica la seguridad de toda la aplicación, la disponibilidad de las fuentes externas ni las ejecuciones programadas posteriores. No se publican métricas de uso o ahorro de tiempo sin medirlas. Las cuentas, datos operativos, rutas internas y documentación detallada de despliegue permanecen privadas.
+
+Próximos pasos: comprobar nuevas ejecuciones, reforzar la comprensión del código y ampliar la demostración aislada con datos ficticios.
 
 ## Capturas y privacidad
 La presentación pública utiliza únicamente las tres imágenes descritas arriba, revisadas visualmente antes de generar el MP4. Se conservan la identidad visual del club y la atribución al autor, ya identificado en este README. El correo de la pantalla de acceso es un texto de ejemplo; la agenda está rotulada como vista ilustrativa. No se incluyen fichas ni registros de deportistas, documentos internos, credenciales legibles ni enlaces de acceso a la aplicación.
